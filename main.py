@@ -1,5 +1,4 @@
 # Получение название ножа через json файл
-from tkinter.messagebox import NO
 from bs4 import BeautifulSoup
 import requests
 import json
